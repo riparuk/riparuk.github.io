@@ -2,19 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/arch-linux/</loc>
+    <lastmod>2023-07-08T00:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/archinstall/</loc>
+    <lastmod>2023-07-08T00:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2023-07-08-cara-integrasi-google-drive-di-linux-menggunakan-rclone/</loc>
+    <lastmod>2023-07-08T00:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/id/</loc>
+    <lastmod>2023-07-08T00:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2023-07-08-install-arch-linux-dengan-archinstall/</loc>
+    <lastmod>2023-07-08T00:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/linux/</loc>
+    <lastmod>2023-07-08T00:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2023-07-08T00:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2023-07-08T00:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2023-07-08T00:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2023-06-21-setup-hp-printer-di-arch-linux/</loc>
+    <lastmod>2023-06-21T00:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2023-06-21-hak-akses-di-linux/</loc>
+    <lastmod>2023-06-21T00:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2023-06-14-about/</loc>
+    <lastmod>2023-06-14T00:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/about/</loc>
+    <lastmod>2023-06-14T00:00:00+07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/first/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/my-first-post/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
