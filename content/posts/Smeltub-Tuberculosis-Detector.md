@@ -3,7 +3,7 @@ title: "Smeltub Tuberculosis Detector"
 date: 2025-01-21T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["Projects", "Smeltub", "Machine Learning", "AI", "Research", "Tuberculosis", "Detector"]
+tags: ["Projects", "Smeltub", "Machine Learning", "AI", "Research", "Tuberculosis", "Detector", "indonesia"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
