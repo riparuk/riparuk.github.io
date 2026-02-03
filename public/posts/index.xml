@@ -2,57 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Riparuk Web</title>
-    <link>http://localhost:61305/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Riparuk Web</description>
     <image>
       <title>Riparuk Web</title>
-      <url>http://localhost:61305/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:61305/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.155.2</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0700</lastBuildDate>
-    <atom:link href="http://localhost:61305/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Jul 2025 00:00:00 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QIAI (Quick Assistant)</title>
+      <link>http://localhost:1313/posts/qiai/</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/qiai/</guid>
+      <description>Terminal Commands Assistant Integrated with GPT &amp;amp; Google Gemini</description>
+    </item>
     <item>
       <title>Ini website apa sih?</title>
-      <link>http://localhost:61305/posts/about/</link>
+      <link>http://localhost:1313/posts/about/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0700</pubDate>
-      <guid>http://localhost:61305/posts/about/</guid>
+      <guid>http://localhost:1313/posts/about/</guid>
       <description>Coba baca dulu deh ini ...</description>
     </item>
     <item>
       <title>Smeltub Tuberculosis Detector</title>
-      <link>http://localhost:61305/posts/smeltub-tuberculosis-detector/</link>
+      <link>http://localhost:1313/posts/smeltub-tuberculosis-detector/</link>
       <pubDate>Tue, 21 Jan 2025 11:30:03 +0000</pubDate>
-      <guid>http://localhost:61305/posts/smeltub-tuberculosis-detector/</guid>
+      <guid>http://localhost:1313/posts/smeltub-tuberculosis-detector/</guid>
       <description>Smeltub Tuberculosis Detector</description>
     </item>
     <item>
       <title>Install Arch Linux with archinstall</title>
-      <link>http://localhost:61305/posts/install-arch-linux-with-archinstall/</link>
+      <link>http://localhost:1313/posts/install-arch-linux-with-archinstall/</link>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0700</pubDate>
-      <guid>http://localhost:61305/posts/install-arch-linux-with-archinstall/</guid>
+      <guid>http://localhost:1313/posts/install-arch-linux-with-archinstall/</guid>
       <description>My not-so-manual walkthrough for installing Arch Linux with the archinstall script so the setup stops being a chore</description>
     </item>
     <item>
       <title>Integrating Google Drive on Linux with rclone</title>
-      <link>http://localhost:61305/posts/integrating-google-drive-on-linux-with-rclone/</link>
+      <link>http://localhost:1313/posts/integrating-google-drive-on-linux-with-rclone/</link>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0700</pubDate>
-      <guid>http://localhost:61305/posts/integrating-google-drive-on-linux-with-rclone/</guid>
+      <guid>http://localhost:1313/posts/integrating-google-drive-on-linux-with-rclone/</guid>
       <description>A quick rundown on how I hook Google Drive into my Linux box with rclone so it feels native</description>
     </item>
     <item>
       <title>Setting Up an HP Printer on Arch Linux</title>
-      <link>http://localhost:61305/posts/setting-up-an-hp-printer-on-arch-linux/</link>
+      <link>http://localhost:1313/posts/setting-up-an-hp-printer-on-arch-linux/</link>
       <pubDate>Wed, 21 Jun 2023 00:00:00 +0700</pubDate>
-      <guid>http://localhost:61305/posts/setting-up-an-hp-printer-on-arch-linux/</guid>
+      <guid>http://localhost:1313/posts/setting-up-an-hp-printer-on-arch-linux/</guid>
       <description>My quick checklist for getting an HP printer working nicely on Arch Linux</description>
     </item>
     <item>
       <title>Users, Groups, and Access Rights on Linux</title>
-      <link>http://localhost:61305/posts/users-groups-and-access-rights-on-linux/</link>
+      <link>http://localhost:1313/posts/users-groups-and-access-rights-on-linux/</link>
       <pubDate>Wed, 21 Jun 2023 00:00:00 +0700</pubDate>
-      <guid>http://localhost:61305/posts/users-groups-and-access-rights-on-linux/</guid>
+      <guid>http://localhost:1313/posts/users-groups-and-access-rights-on-linux/</guid>
       <description>A short explainer on users, groups, and how permissions tie everything together on Linux</description>
     </item>
   </channel>
