@@ -2,6 +2,10 @@ baseURL: "https://riparuk.github.io/"
 title: Riparuk Web
 theme: PaperMod
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
