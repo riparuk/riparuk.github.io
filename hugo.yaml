@@ -1,6 +1,5 @@
 baseURL: "https://examplesite.com/"
 title: ExampleSite
-pagerSize: 5
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -13,6 +12,10 @@ googleAnalytics: UA-123-45
 minify:
   disableXML: true
   minifyOutput: true
+
+pagination:
+  disableAliases: false
+  pagerSize: 5
 
 outputs:
   home:
