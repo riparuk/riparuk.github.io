@@ -1,7 +1,7 @@
 ---
 title: "Ini website apa sih?"
 date: 2025-02-03T00:00:00+07:00
-tags: ["About"]
+tags: ["About", "indonesia"]
 author: "Me"
 showToc: true
 TocOpen: false

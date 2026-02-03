@@ -11,7 +11,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+googleAnalytics: G-522906547
 
 minify:
   disableXML: true
@@ -86,8 +86,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Hi, I'm Rifa \U0001F44B"
+    Content: "Software Engineer passionate on Backend & LLM Integration, see my projects on GitHub or in **<u>[Projects](/tags/projects/)</u>** section. Enjoy!"
 
   socialIcons:
     # - name: x
@@ -96,6 +96,10 @@ params:
     #   url: "https://stackoverflow.com"
     - name: github
       url: "https://github.com/riparuk"
+    - name: linkedin
+      url: "https://linkedin.com/in/rifafaruqi"
+    - name: email
+      url: "mailto:faruqirifa@gmail.com"
 
   analytics:
     google:
@@ -144,6 +148,11 @@ menu:
       name: tags
       url: /tags/
       weight: 20
+
+    - identifier: About this site
+      name: About this site
+      url: /posts/About/
+      weight: 25
     # - identifier: example
     #   name: example.org
     #   url: https://example.org

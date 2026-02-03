@@ -14,11 +14,11 @@
     <lastBuildDate>Sat, 08 Jul 2023 00:00:00 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/arch-linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Install Arch Linux dengan archinstall</title>
-      <link>http://localhost:1313/posts/install-arch-linux-dengan-archinstall/</link>
+      <title>Install Arch Linux with archinstall</title>
+      <link>http://localhost:1313/posts/install-arch-linux-with-archinstall/</link>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/install-arch-linux-dengan-archinstall/</guid>
-      <description>Di artikel ini kita akan bahas cara install Arch Linux tanpa manual/cara tradisional seperti yang sering digunakan orang-orang, tetapi kita akan menggunakan cara yang sangat sederhana hanya dengan menggunakan script archinstall kita dapat menghemat waktu untuk instalasinya</description>
+      <guid>http://localhost:1313/posts/install-arch-linux-with-archinstall/</guid>
+      <description>My not-so-manual walkthrough for installing Arch Linux with the archinstall script so the setup stops being a chore</description>
     </item>
   </channel>
 </rss>

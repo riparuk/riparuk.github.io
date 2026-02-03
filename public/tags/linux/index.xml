@@ -14,25 +14,25 @@
     <lastBuildDate>Sat, 08 Jul 2023 00:00:00 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cara integrasi/menghubungkan google drive di Linux dengan rclone</title>
-      <link>http://localhost:1313/posts/cara-integrasi-google-drive-di-linux-menggunakan-rclone/</link>
+      <title>Integrating Google Drive on Linux with rclone</title>
+      <link>http://localhost:1313/posts/integrating-google-drive-on-linux-with-rclone/</link>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/cara-integrasi-google-drive-di-linux-menggunakan-rclone/</guid>
-      <description>Di artikel ini kita akan bahas secara singkat cara mengintegrasikan atau menghubungkan google drive agar bisa diakses langsung di Linux dengan rclone</description>
+      <guid>http://localhost:1313/posts/integrating-google-drive-on-linux-with-rclone/</guid>
+      <description>A quick rundown on how I hook Google Drive into my Linux box with rclone so it feels native</description>
     </item>
     <item>
-      <title>Setup HP Printer di Arch Linux</title>
-      <link>http://localhost:1313/posts/setup-hp-printer-di-arch-linux/</link>
+      <title>Setting Up an HP Printer on Arch Linux</title>
+      <link>http://localhost:1313/posts/setting-up-an-hp-printer-on-arch-linux/</link>
       <pubDate>Wed, 21 Jun 2023 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/setup-hp-printer-di-arch-linux/</guid>
-      <description>Di artikel ini kita akan bahas secara singkat cara setup printer merk HP yang telah aku coba di Arch Linux</description>
+      <guid>http://localhost:1313/posts/setting-up-an-hp-printer-on-arch-linux/</guid>
+      <description>My quick checklist for getting an HP printer working nicely on Arch Linux</description>
     </item>
     <item>
-      <title>User,Group dan Hak Akses di Linux</title>
-      <link>http://localhost:1313/posts/hak-akses-di-linux/</link>
+      <title>Users, Groups, and Access Rights on Linux</title>
+      <link>http://localhost:1313/posts/users-groups-and-access-rights-on-linux/</link>
       <pubDate>Wed, 21 Jun 2023 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/hak-akses-di-linux/</guid>
-      <description>Di artikel ini kita akan bahas secara singkat apa itu User, Group dan hubungan dengan Hak Akses di Linux</description>
+      <guid>http://localhost:1313/posts/users-groups-and-access-rights-on-linux/</guid>
+      <description>A short explainer on users, groups, and how permissions tie everything together on Linux</description>
     </item>
   </channel>
 </rss>
