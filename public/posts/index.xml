@@ -21,39 +21,11 @@
       <description>Desc Text.</description>
     </item>
     <item>
-      <title>My 1st post</title>
+      <title>Markdown Syntax Guide</title>
       <link>http://localhost:1313/posts/my-first-post2/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/my-first-post2/</guid>
-      <description>Desc Text.</description>
-    </item>
-    <item>
-      <title>My 1st post</title>
-      <link>http://localhost:1313/posts/my-first-post3/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post3/</guid>
-      <description>Desc Text.</description>
-    </item>
-    <item>
-      <title>My 1st post</title>
-      <link>http://localhost:1313/posts/my-first-post4/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post4/</guid>
-      <description>Desc Text.</description>
-    </item>
-    <item>
-      <title>My 1st post</title>
-      <link>http://localhost:1313/posts/my-first-post5/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post5/</guid>
-      <description>Desc Text.</description>
-    </item>
-    <item>
-      <title>My 1st post</title>
-      <link>http://localhost:1313/posts/my-first-post6/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post6/</guid>
-      <description>Desc Text.</description>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
   </channel>
 </rss>
