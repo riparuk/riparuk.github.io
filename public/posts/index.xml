@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on ExampleSite</title>
+    <title>Posts on Riparuk Web</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on ExampleSite</description>
+    <description>Recent content in Posts on Riparuk Web</description>
     <image>
-      <title>ExampleSite</title>
+      <title>Riparuk Web</title>
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
@@ -19,13 +19,6 @@
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>Desc Text.</description>
-    </item>
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>http://localhost:1313/posts/my-first-post2/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post2/</guid>
-      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
   </channel>
 </rss>
