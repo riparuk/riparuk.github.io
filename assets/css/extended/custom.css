@@ -14,3 +14,12 @@ iframe {
 .twitter-tweet {
     margin: auto;
 }
+
+/* Limit image height */
+img {
+    max-height: 500px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
