@@ -87,7 +87,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi, I'm Rifa \U0001F44B"
-    Content: "Software Engineer passionate on Backend & LLM Integration, see my projects on GitHub or in **<u>[Projects](/tags/projects/)</u>** section. Enjoy!"
+    Content: "Software Engineer passionate on Backend & LLM Integration, see my projects on GitHub or in **<u>[Projects](/tags/projects/)</u>** section. Enjoy! <br>Always track your expenses with AI at <u>**[Traveed.app](https://traveed.app)**</u>"
 
   socialIcons:
     # - name: x
@@ -149,8 +149,8 @@ menu:
       url: /tags/
       weight: 20
 
-    - identifier: About this site
-      name: About this site
+    - identifier: ini web apa?
+      name: ini web apa?
       url: /posts/About/
       weight: 25
     # - identifier: example
