@@ -1,0 +1,16 @@
+/* Override PaperMod CSS to show covers on tag pages */
+.tag-entry .entry-cover {
+    display: -webkit-box !important;
+}
+
+.entry-cover img {
+    border: 1px solid var(--border);
+}
+
+iframe {
+    border-radius: var(--radius) !important;
+}
+
+.twitter-tweet {
+    margin: auto;
+}
