@@ -11,49 +11,42 @@
     </image>
     <generator>Hugo -- 0.155.2</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Jul 2023 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Ini website apa sih?</title>
+      <link>http://localhost:1313/posts/about/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/about/</guid>
+      <description>Coba baca dulu deh ini ...</description>
+    </item>
+    <item>
       <title>Cara integrasi/menghubungkan google drive di Linux dengan rclone</title>
-      <link>http://localhost:1313/posts/2023-07-08-cara-integrasi-google-drive-di-linux-menggunakan-rclone/</link>
+      <link>http://localhost:1313/posts/cara-integrasi-google-drive-di-linux-menggunakan-rclone/</link>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2023-07-08-cara-integrasi-google-drive-di-linux-menggunakan-rclone/</guid>
+      <guid>http://localhost:1313/posts/cara-integrasi-google-drive-di-linux-menggunakan-rclone/</guid>
       <description>Di artikel ini kita akan bahas secara singkat cara mengintegrasikan atau menghubungkan google drive agar bisa diakses langsung di Linux dengan rclone</description>
     </item>
     <item>
       <title>Install Arch Linux dengan archinstall</title>
-      <link>http://localhost:1313/posts/2023-07-08-install-arch-linux-dengan-archinstall/</link>
+      <link>http://localhost:1313/posts/install-arch-linux-dengan-archinstall/</link>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2023-07-08-install-arch-linux-dengan-archinstall/</guid>
+      <guid>http://localhost:1313/posts/install-arch-linux-dengan-archinstall/</guid>
       <description>Di artikel ini kita akan bahas cara install Arch Linux tanpa manual/cara tradisional seperti yang sering digunakan orang-orang, tetapi kita akan menggunakan cara yang sangat sederhana hanya dengan menggunakan script archinstall kita dapat menghemat waktu untuk instalasinya</description>
     </item>
     <item>
       <title>Setup HP Printer di Arch Linux</title>
-      <link>http://localhost:1313/posts/2023-06-21-setup-hp-printer-di-arch-linux/</link>
+      <link>http://localhost:1313/posts/setup-hp-printer-di-arch-linux/</link>
       <pubDate>Wed, 21 Jun 2023 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2023-06-21-setup-hp-printer-di-arch-linux/</guid>
+      <guid>http://localhost:1313/posts/setup-hp-printer-di-arch-linux/</guid>
       <description>Di artikel ini kita akan bahas secara singkat cara setup printer merk HP yang telah aku coba di Arch Linux</description>
     </item>
     <item>
       <title>User,Group dan Hak Akses di Linux</title>
-      <link>http://localhost:1313/posts/2023-06-21-hak-akses-di-linux/</link>
+      <link>http://localhost:1313/posts/hak-akses-di-linux/</link>
       <pubDate>Wed, 21 Jun 2023 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2023-06-21-hak-akses-di-linux/</guid>
+      <guid>http://localhost:1313/posts/hak-akses-di-linux/</guid>
       <description>Di artikel ini kita akan bahas secara singkat apa itu User, Group dan hubungan dengan Hak Akses di Linux</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/posts/2023-06-14-about/</link>
-      <pubDate>Wed, 14 Jun 2023 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2023-06-14-about/</guid>
-      <description>Riparuk sebenarnya hanya sebuah website yang diperuntukkan bagi saya sendiri sebagai arsipan yang mungkin akan saya butuhkan kembali di masa mendatang mulai dari hal-hal yang simpel seperti cara instalasi, configurasi, dan tips dan trik lainnya yang sekiranya akan saya gunakan kembali, jadi saya rangkung dengan bahasa saya sendiri yang menurut saya mudah dipahami di website Riparuk Archive ini</description>
-    </item>
-    <item>
-      <title>My 1st post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Desc Text.</description>
     </item>
   </channel>
 </rss>

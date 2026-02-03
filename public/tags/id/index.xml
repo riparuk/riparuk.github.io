@@ -15,30 +15,30 @@
     <atom:link href="http://localhost:1313/tags/id/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cara integrasi/menghubungkan google drive di Linux dengan rclone</title>
-      <link>http://localhost:1313/posts/2023-07-08-cara-integrasi-google-drive-di-linux-menggunakan-rclone/</link>
+      <link>http://localhost:1313/posts/cara-integrasi-google-drive-di-linux-menggunakan-rclone/</link>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2023-07-08-cara-integrasi-google-drive-di-linux-menggunakan-rclone/</guid>
+      <guid>http://localhost:1313/posts/cara-integrasi-google-drive-di-linux-menggunakan-rclone/</guid>
       <description>Di artikel ini kita akan bahas secara singkat cara mengintegrasikan atau menghubungkan google drive agar bisa diakses langsung di Linux dengan rclone</description>
     </item>
     <item>
       <title>Install Arch Linux dengan archinstall</title>
-      <link>http://localhost:1313/posts/2023-07-08-install-arch-linux-dengan-archinstall/</link>
+      <link>http://localhost:1313/posts/install-arch-linux-dengan-archinstall/</link>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2023-07-08-install-arch-linux-dengan-archinstall/</guid>
+      <guid>http://localhost:1313/posts/install-arch-linux-dengan-archinstall/</guid>
       <description>Di artikel ini kita akan bahas cara install Arch Linux tanpa manual/cara tradisional seperti yang sering digunakan orang-orang, tetapi kita akan menggunakan cara yang sangat sederhana hanya dengan menggunakan script archinstall kita dapat menghemat waktu untuk instalasinya</description>
     </item>
     <item>
       <title>Setup HP Printer di Arch Linux</title>
-      <link>http://localhost:1313/posts/2023-06-21-setup-hp-printer-di-arch-linux/</link>
+      <link>http://localhost:1313/posts/setup-hp-printer-di-arch-linux/</link>
       <pubDate>Wed, 21 Jun 2023 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2023-06-21-setup-hp-printer-di-arch-linux/</guid>
+      <guid>http://localhost:1313/posts/setup-hp-printer-di-arch-linux/</guid>
       <description>Di artikel ini kita akan bahas secara singkat cara setup printer merk HP yang telah aku coba di Arch Linux</description>
     </item>
     <item>
       <title>User,Group dan Hak Akses di Linux</title>
-      <link>http://localhost:1313/posts/2023-06-21-hak-akses-di-linux/</link>
+      <link>http://localhost:1313/posts/hak-akses-di-linux/</link>
       <pubDate>Wed, 21 Jun 2023 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2023-06-21-hak-akses-di-linux/</guid>
+      <guid>http://localhost:1313/posts/hak-akses-di-linux/</guid>
       <description>Di artikel ini kita akan bahas secara singkat apa itu User, Group dan hubungan dengan Hak Akses di Linux</description>
     </item>
   </channel>

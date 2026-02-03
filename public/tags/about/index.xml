@@ -11,14 +11,14 @@
     </image>
     <generator>Hugo -- 0.155.2</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Jun 2023 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>http://localhost:1313/posts/2023-06-14-about/</link>
-      <pubDate>Wed, 14 Jun 2023 00:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2023-06-14-about/</guid>
-      <description>Riparuk sebenarnya hanya sebuah website yang diperuntukkan bagi saya sendiri sebagai arsipan yang mungkin akan saya butuhkan kembali di masa mendatang mulai dari hal-hal yang simpel seperti cara instalasi, configurasi, dan tips dan trik lainnya yang sekiranya akan saya gunakan kembali, jadi saya rangkung dengan bahasa saya sendiri yang menurut saya mudah dipahami di website Riparuk Archive ini</description>
+      <title>Ini website apa sih?</title>
+      <link>http://localhost:1313/posts/about/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/about/</guid>
+      <description>Coba baca dulu deh ini ...</description>
     </item>
   </channel>
 </rss>
