@@ -18,7 +18,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "images/qiai/qiai-example.webp" # image path/url
+    image: "images/qiai/banner.png" # image path/url
     alt: "QIAI Terminal Command" # alt text
     caption: "QIAI Terminal Command" # display caption under cover
 editPost:

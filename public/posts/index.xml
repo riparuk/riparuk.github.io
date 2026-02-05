@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.155.2</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Jul 2025 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 17:49:00 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meeting bikin capek</title>
+      <link>http://localhost:1313/posts/meeting-tidak-efektif/</link>
+      <pubDate>Wed, 04 Feb 2026 17:49:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/meeting-tidak-efektif/</guid>
+      <description>Its just my thought, about meeting that sometimes make me feel tired</description>
+    </item>
     <item>
       <title>QIAI (Quick Assistant)</title>
       <link>http://localhost:1313/posts/qiai/</link>
@@ -75,13 +82,6 @@
       <pubDate>Wed, 21 Jun 2023 00:00:00 +0700</pubDate>
       <guid>http://localhost:1313/posts/users-groups-and-access-rights-on-linux/</guid>
       <description>A short explainer on users, groups, and how permissions tie everything together on Linux</description>
-    </item>
-    <item>
-      <title>Meeting bikin capek</title>
-      <link>http://localhost:1313/posts/meeting-tidak-efektif/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/posts/meeting-tidak-efektif/</guid>
-      <description>Its just my thought, about meeting that sometimes make me feel tired</description>
     </item>
   </channel>
 </rss>
