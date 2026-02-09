@@ -34,8 +34,6 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-## Intro
-
 Ada banyak sekali aplikasi pencatatan keuangan di luar sana, yang menjadi concern saya sekarang ini adalah bagaimana membuat pencatatan pengeluaran itu tidak perlu se-manual mengisi banyak data pengeluaran seperti nama barang, harga, kategori, dan lain-lain.
 
 Tapi sebelum itu, ada pengalaman yang menjadi alasan kenapa pencatatan pengeluaran itu perlu, yaitu ketika saya berada di luar negeri. Saya tinggal di Indonesia, biaya hidup di sini relatif lebih murah dibandingkan dengan di luar, karena perbedaan currency itu membuat saya sulit untuk membandingkan berapa pengeluaran saya so far.
