@@ -21,6 +21,13 @@
       <description>Aplikasi pencatatan pengeluaran pakai AI yang saya gunakan sehari-hari</description>
     </item>
     <item>
+      <title>QIAI (Quick Assistant)</title>
+      <link>http://localhost:1313/id/posts/qiai/</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/id/posts/qiai/</guid>
+      <description>Asisten Perintah Terminal yang Terintegrasi dengan GPT &amp;amp; Google Gemini</description>
+    </item>
+    <item>
       <title>Lazy Teacher</title>
       <link>http://localhost:1313/id/posts/lazy-teacher/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0700</pubDate>

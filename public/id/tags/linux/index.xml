@@ -20,5 +20,19 @@
       <guid>http://localhost:1313/id/posts/integrating-google-drive-on-linux-with-rclone/</guid>
       <description>Panduan cepat gimana caraku nyambungin Google Drive ke Linux pakai rclone biar rasanya native</description>
     </item>
+    <item>
+      <title>Setting Printer HP di Arch Linux</title>
+      <link>http://localhost:1313/id/posts/setting-up-an-hp-printer-on-arch-linux/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/id/posts/setting-up-an-hp-printer-on-arch-linux/</guid>
+      <description>Checklist cepatku buat bikin printer HP jalan lancar di Arch Linux</description>
+    </item>
+    <item>
+      <title>User, Group, dan Hak Akses di Linux</title>
+      <link>http://localhost:1313/id/posts/users-groups-and-access-rights-on-linux/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/id/posts/users-groups-and-access-rights-on-linux/</guid>
+      <description>Penjelasan singkat soal user, group, dan gimana permission ngiket semuanya di Linux</description>
+    </item>
   </channel>
 </rss>

@@ -28,6 +28,13 @@
       <description>Its just my thought, about meeting that sometimes make me feel tired</description>
     </item>
     <item>
+      <title>QIAI (Quick Assistant)</title>
+      <link>http://localhost:1313/id/posts/qiai/</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/id/posts/qiai/</guid>
+      <description>Asisten Perintah Terminal yang Terintegrasi dengan GPT &amp;amp; Google Gemini</description>
+    </item>
+    <item>
       <title>Hidden Cam Web</title>
       <link>http://localhost:1313/id/posts/hidden-cam/</link>
       <pubDate>Mon, 14 Jul 2025 00:00:00 +0700</pubDate>
@@ -54,6 +61,34 @@
       <pubDate>Tue, 21 Jan 2025 11:30:03 +0000</pubDate>
       <guid>http://localhost:1313/id/posts/smeltub-tuberculosis-detector/</guid>
       <description>Smeltub Tuberculosis Detector</description>
+    </item>
+    <item>
+      <title>Install Arch Linux dengan archinstall</title>
+      <link>http://localhost:1313/id/posts/install-arch-linux-with-archinstall/</link>
+      <pubDate>Sat, 08 Jul 2023 00:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/id/posts/install-arch-linux-with-archinstall/</guid>
+      <description>Panduan instalasi Arch Linux yang ga ribet pakai script archinstall, biar setup ga jadi beban</description>
+    </item>
+    <item>
+      <title>Integrasi Google Drive di Linux dengan rclone</title>
+      <link>http://localhost:1313/id/posts/integrating-google-drive-on-linux-with-rclone/</link>
+      <pubDate>Sat, 08 Jul 2023 00:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/id/posts/integrating-google-drive-on-linux-with-rclone/</guid>
+      <description>Panduan cepat gimana caraku nyambungin Google Drive ke Linux pakai rclone biar rasanya native</description>
+    </item>
+    <item>
+      <title>Setting Printer HP di Arch Linux</title>
+      <link>http://localhost:1313/id/posts/setting-up-an-hp-printer-on-arch-linux/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/id/posts/setting-up-an-hp-printer-on-arch-linux/</guid>
+      <description>Checklist cepatku buat bikin printer HP jalan lancar di Arch Linux</description>
+    </item>
+    <item>
+      <title>User, Group, dan Hak Akses di Linux</title>
+      <link>http://localhost:1313/id/posts/users-groups-and-access-rights-on-linux/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/id/posts/users-groups-and-access-rights-on-linux/</guid>
+      <description>Penjelasan singkat soal user, group, dan gimana permission ngiket semuanya di Linux</description>
     </item>
   </channel>
 </rss>
