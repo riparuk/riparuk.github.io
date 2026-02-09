@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Linux on Riparuk Web</title>
-    <link>http://localhost:49876/tags/linux/</link>
+    <link>http://localhost:50878/tags/linux/</link>
     <description>Recent content in Linux on Riparuk Web</description>
     <image>
       <title>Riparuk Web</title>
-      <url>http://localhost:49876/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:49876/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:50878/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:50878/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.155.2</generator>
-    <language>en</language>
+    <language>id</language>
     <lastBuildDate>Sat, 08 Jul 2023 00:00:00 +0700</lastBuildDate>
-    <atom:link href="http://localhost:49876/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50878/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Integrating Google Drive on Linux with rclone</title>
-      <link>http://localhost:49876/posts/integrating-google-drive-on-linux-with-rclone/</link>
+      <title>Integrasi Google Drive di Linux dengan rclone</title>
+      <link>http://localhost:50878/posts/integrating-google-drive-on-linux-with-rclone/</link>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0700</pubDate>
-      <guid>http://localhost:49876/posts/integrating-google-drive-on-linux-with-rclone/</guid>
-      <description>A quick rundown on how I hook Google Drive into my Linux box with rclone so it feels native</description>
+      <guid>http://localhost:50878/posts/integrating-google-drive-on-linux-with-rclone/</guid>
+      <description>Panduan cepat gimana caraku nyambungin Google Drive ke Linux pakai rclone biar rasanya native</description>
     </item>
     <item>
-      <title>Setting Up an HP Printer on Arch Linux</title>
-      <link>http://localhost:49876/posts/setting-up-an-hp-printer-on-arch-linux/</link>
+      <title>Setting Printer HP di Arch Linux</title>
+      <link>http://localhost:50878/posts/setting-up-an-hp-printer-on-arch-linux/</link>
       <pubDate>Wed, 21 Jun 2023 00:00:00 +0700</pubDate>
-      <guid>http://localhost:49876/posts/setting-up-an-hp-printer-on-arch-linux/</guid>
-      <description>My quick checklist for getting an HP printer working nicely on Arch Linux</description>
+      <guid>http://localhost:50878/posts/setting-up-an-hp-printer-on-arch-linux/</guid>
+      <description>Checklist cepatku buat bikin printer HP jalan lancar di Arch Linux</description>
     </item>
     <item>
-      <title>Users, Groups, and Access Rights on Linux</title>
-      <link>http://localhost:49876/posts/users-groups-and-access-rights-on-linux/</link>
+      <title>User, Group, dan Hak Akses di Linux</title>
+      <link>http://localhost:50878/posts/users-groups-and-access-rights-on-linux/</link>
       <pubDate>Wed, 21 Jun 2023 00:00:00 +0700</pubDate>
-      <guid>http://localhost:49876/posts/users-groups-and-access-rights-on-linux/</guid>
-      <description>A short explainer on users, groups, and how permissions tie everything together on Linux</description>
+      <guid>http://localhost:50878/posts/users-groups-and-access-rights-on-linux/</guid>
+      <description>Penjelasan singkat soal user, group, dan gimana permission ngiket semuanya di Linux</description>
     </item>
   </channel>
 </rss>

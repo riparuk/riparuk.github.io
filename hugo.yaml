@@ -11,7 +11,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-defaultContentLanguage: en
+defaultContentLanguage: id
 defaultContentLanguageInSubdir: false
 
 googleAnalytics: G-522906547
