@@ -50,10 +50,8 @@ Beberapa fitur besar dari Traveed meliputi:
 
 - **AI Expense Capture**: User hanya perlu memasukkan pengeluaran dengan mengetik dengan bahasa sehari-hari, misalnya "Beli mie seharga 15000 rupiah di warung bu ani", dan AI akan secara otomatis memisahkan input tersebut menjadi nama, deskripsi, jumlah, dan mata uang.
 
-<div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="/images/traveed/transactions.png" alt="Transactions" style="width: 32%;" />
-  <img src="/images/traveed/analytics.png" alt="Analytics" style="width: 32%;" />
-</div>
+![Transactions](/images/traveed/transactions.png)
+![Analytics](/images/traveed/analytics.png)
 
 - **Prompt Tuning**: Ini berguna untuk menyesuaikan bagaimana AI memasukkan data pengeluaran, misalnya user ingin AI memasukkan data pengeluaran dengan format tertentu, bahasa tertentu, atau bahkan gaya tertentu maka user bisa mengatur prompt tuning untuk mengatur format tersebut.
 
