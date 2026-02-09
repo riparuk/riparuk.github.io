@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Expense Tracker on Riparuk Web</title>
-    <link>http://localhost:57461/tags/expense-tracker/</link>
+    <link>http://localhost:61755/tags/expense-tracker/</link>
     <description>Recent content in Expense Tracker on Riparuk Web</description>
     <image>
       <title>Riparuk Web</title>
-      <url>http://localhost:57461/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:57461/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:61755/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:61755/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.155.2</generator>
     <language>en</language>
     <lastBuildDate>Mon, 09 Feb 2026 12:30:30 +0700</lastBuildDate>
-    <atom:link href="http://localhost:57461/tags/expense-tracker/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:61755/tags/expense-tracker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Traveed</title>
-      <link>http://localhost:57461/posts/traveed/</link>
+      <link>http://localhost:61755/posts/traveed/</link>
       <pubDate>Mon, 09 Feb 2026 12:30:30 +0700</pubDate>
-      <guid>http://localhost:57461/posts/traveed/</guid>
+      <guid>http://localhost:61755/posts/traveed/</guid>
       <description>Aplikasi pencatatan pengeluaran pakai AI yang saya gunakan sehari-hari</description>
     </item>
   </channel>
