@@ -22,7 +22,8 @@
 {{- if gt (len $allProjects) 0 }}
 <section class="projects-section">
     <header class="projects-header">
-        <h2>Latest Projects</h2>
+        <!-- DEBUG: Lang={{ .Lang }} Language.Lang={{ site.Language.Lang }} -->
+        <h2>{{ i18n "latest_projects" }}</h2>
     </header>
     <div class="projects-container">
         {{- range first 3 $allProjects }}

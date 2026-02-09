@@ -11,6 +11,9 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: false
+
 googleAnalytics: G-522906547
 
 minify:
@@ -26,6 +29,77 @@ outputs:
     - HTML
     - RSS
     - JSON # necessary for search
+
+languages:
+  id:
+    languageName: "Bahasa Indonesia"
+    languageCode: "id"
+    weight: 1
+    menu:
+      main:
+        - identifier: projects
+          name: Proyek
+          url: /tags/projects/
+          weight: 10
+        - identifier: search
+          name: Cari
+          url: /search/
+          weight: 20
+        - identifier: archives
+          name: Arsip
+          url: /archives/
+          weight: 30
+        - identifier: tags
+          name: Tag
+          url: /tags/
+          weight: 40
+        - identifier: ini web apa?
+          name: Tentang
+          url: /posts/About/
+          weight: 50
+    params:
+      homeInfoParams:
+        Title: "Halo, Saya Rifa \U0001F44B"
+        Content: "Software Engineer yang antusias dengan Backend & Integrasi LLM, lihat proyek saya di GitHub atau di bagian **<u>[Proyek](/tags/projects/)</u>**. Selamat menikmati! <br>Selalu catat pengeluaranmu dengan AI di <u>**[Traveed.app](https://traveed.app)**</u>"
+      label:
+        text: "Beranda"
+        icon: /apple-touch-icon.png
+        iconHeight: 35
+
+  en:
+    languageName: "English"
+    languageCode: "en"
+    weight: 2
+    menu:
+      main:
+        - identifier: projects
+          name: Projects
+          url: /en/tags/projects/
+          weight: 10
+        - identifier: search
+          name: Search
+          url: /en/search/
+          weight: 20
+        - identifier: archives
+          name: Archives
+          url: /en/archives/
+          weight: 30
+        - identifier: tags
+          name: Tags
+          url: /en/tags/
+          weight: 40
+        - identifier: about-page
+          name: About
+          url: /en/posts/about/
+          weight: 50
+    params:
+      homeInfoParams:
+        Title: "Hi, I'm Rifa \U0001F44B"
+        Content: "Software Engineer passionate on Backend & LLM Integration, see my projects on GitHub or in **<u>[Projects](/en/tags/projects/)</u>** section. Enjoy! <br>Always track your expenses with AI at <u>**[Traveed.app](https://traveed.app)**</u>"
+      label:
+        text: "Home"
+        icon: /apple-touch-icon.png
+        iconHeight: 35
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -64,11 +138,6 @@ params:
     apple_touch_icon: "<link / abs url>"
     safari_pinned_tab: "<link / abs url>"
 
-  label:
-    text: "Home"
-    icon: /apple-touch-icon.png
-    iconHeight: 35
-
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
@@ -83,11 +152,6 @@ params:
         url: posts
       - name: Tags
         url: tags
-
-  # home-info mode
-  homeInfoParams:
-    Title: "Hi, I'm Rifa \U0001F44B"
-    Content: "Software Engineer passionate on Backend & LLM Integration, see my projects on GitHub or in **<u>[Projects](/tags/projects/)</u>** section. Enjoy! <br>Always track your expenses with AI at <u>**[Traveed.app](https://traveed.app)**</u>"
 
   socialIcons:
     # - name: x
@@ -130,38 +194,7 @@ params:
   #   minMatchCharLength: 0
   #   limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
   #   keys: ["title", "permalink", "summary", "content"]
-menu:
-  main:
-    - identifier: projects
-      name: projects
-      url: /tags/projects/
-      weight: 10
-    - identifier: search
-      name: search
-      url: /search/
-      weight: 20
-    - identifier: archives
-      name: archives
-      url: /archives/
-      weight: 30
-    # - identifier: categories
-    #   name: categories
-    #   url: /categories/
-    #   weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 40
 
-
-    - identifier: ini web apa?
-      name: ini web apa?
-      url: /posts/About/
-      weight: 50
-    # - identifier: example
-    #   name: example.org
-    #   url: https://example.org
-    #   weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
