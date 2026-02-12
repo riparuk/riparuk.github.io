@@ -41,8 +41,8 @@ Hanya beberapa model yang support dimatikan *reasoning* untuk versi GPT-5 ke ata
 
 Saya coba compare perbedaan harga dan spesifikasi di halaman detail models OpenAI, ini perbedaan model nano-nya, GPT-4.1 nano dan GPT-5 nano.
 
-![gpt.4.1.nano](images/experiment-llm-salah-memahami-waktu/gpt.4.1.nano.png)
-![gpt.5.nano](images/experiment-llm-salah-memahami-waktu/gpt.5.nano.png)
+![gpt.4.1.nano](images/experiment-llm-salah-memahami-waktu/GPT.4.1.nano.png)
+![gpt.5.nano](images/experiment-llm-salah-memahami-waktu/GPT.5.nano.png)
 
 <!-- Image Placeholder: Perbedaan harga dan spesifikasi model nano -->
 

@@ -41,8 +41,8 @@ Only a few models support disabling *reasoning* for GPT-5 versions and above, yo
 
 I tried to compare the price and specification differences on the OpenAI models detail page. Here are the differences for the nano models, GPT-4.1 nano and GPT-5 nano.
 
-![gpt.4.1.nano](images/experiment-llm-salah-memahami-waktu/gpt.4.1.nano.png)
-![gpt.5.nano](images/experiment-llm-salah-memahami-waktu/gpt.5.nano.png)
+![gpt.4.1.nano](images/experiment-llm-salah-memahami-waktu/GPT.4.1.nano.png)
+![gpt.5.nano](images/experiment-llm-salah-memahami-waktu/GPT.5.nano.png)
 
 <!-- Image Placeholder: Price and specification differences of nano models -->
 
