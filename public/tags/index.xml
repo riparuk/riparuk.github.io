@@ -11,8 +11,36 @@
     </image>
     <generator>Hugo -- 0.155.2</generator>
     <language>id</language>
-    <lastBuildDate>Mon, 09 Feb 2026 12:30:30 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 23:00:00 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experiment</title>
+      <link>http://localhost:1313/tags/experiment/</link>
+      <pubDate>Thu, 12 Feb 2026 23:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/tags/experiment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLM</title>
+      <link>http://localhost:1313/tags/llm/</link>
+      <pubDate>Thu, 12 Feb 2026 23:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/tags/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Traveed</title>
+      <link>http://localhost:1313/tags/traveed/</link>
+      <pubDate>Thu, 12 Feb 2026 23:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/tags/traveed/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thoughts</title>
+      <link>http://localhost:1313/tags/thoughts/</link>
+      <pubDate>Mon, 09 Feb 2026 20:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/tags/thoughts/</guid>
+      <description></description>
+    </item>
     <item>
       <title>AI</title>
       <link>http://localhost:1313/tags/ai/</link>
@@ -35,13 +63,6 @@
       <description></description>
     </item>
     <item>
-      <title>LLM</title>
-      <link>http://localhost:1313/tags/llm/</link>
-      <pubDate>Mon, 09 Feb 2026 12:30:30 +0700</pubDate>
-      <guid>http://localhost:1313/tags/llm/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Projects</title>
       <link>http://localhost:1313/tags/projects/</link>
       <pubDate>Mon, 09 Feb 2026 12:30:30 +0700</pubDate>
@@ -53,13 +74,6 @@
       <link>http://localhost:1313/tags/travel/</link>
       <pubDate>Mon, 09 Feb 2026 12:30:30 +0700</pubDate>
       <guid>http://localhost:1313/tags/travel/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Thoughts</title>
-      <link>http://localhost:1313/tags/thoughts/</link>
-      <pubDate>Wed, 04 Feb 2026 17:49:00 +0700</pubDate>
-      <guid>http://localhost:1313/tags/thoughts/</guid>
       <description></description>
     </item>
     <item>

@@ -11,8 +11,22 @@
     </image>
     <generator>Hugo -- 0.155.2</generator>
     <language>id</language>
-    <lastBuildDate>Mon, 09 Feb 2026 12:30:30 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 23:00:00 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experiment LLM Salah Memahami Waktu</title>
+      <link>http://localhost:1313/posts/experiment-llm-salah-memahami-waktu/</link>
+      <pubDate>Thu, 12 Feb 2026 23:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/experiment-llm-salah-memahami-waktu/</guid>
+      <description>Eksperiden dengan LLM yang salah memahami waktu dan solusi yang diterapkan.</description>
+    </item>
+    <item>
+      <title>Solusi vs Isulos</title>
+      <link>http://localhost:1313/posts/solusi-vs-isulos/</link>
+      <pubDate>Mon, 09 Feb 2026 20:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/solusi-vs-isulos/</guid>
+      <description>Dualisme dalam solusi</description>
+    </item>
     <item>
       <title>Traveed</title>
       <link>http://localhost:1313/posts/traveed/</link>
