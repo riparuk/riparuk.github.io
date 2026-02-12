@@ -4,9 +4,29 @@
   <url>
     <loc>http://localhost:1313/tags/experiment/</loc>
     <lastmod>2026-02-12T23:00:00+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/experiment/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://localhost:1313/tags/experiment/"
+                />
   </url><url>
     <loc>http://localhost:1313/posts/experiment-llm-salah-memahami-waktu/</loc>
     <lastmod>2026-02-12T23:00:00+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/posts/experiment-llm-salah-memahami-waktu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://localhost:1313/posts/experiment-llm-salah-memahami-waktu/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/llm/</loc>
     <lastmod>2026-02-12T23:00:00+07:00</lastmod>
@@ -62,6 +82,16 @@
   </url><url>
     <loc>http://localhost:1313/tags/traveed/</loc>
     <lastmod>2026-02-12T23:00:00+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/traveed/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="http://localhost:1313/tags/traveed/"
+                />
   </url><url>
     <loc>http://localhost:1313/posts/solusi-vs-isulos/</loc>
     <lastmod>2026-02-09T20:00:00+07:00</lastmod>

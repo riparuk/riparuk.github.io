@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.155.2</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Feb 2026 12:30:30 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 23:00:00 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/en/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experiment: LLM Misunderstanding Time</title>
+      <link>http://localhost:1313/en/posts/experiment-llm-salah-memahami-waktu/</link>
+      <pubDate>Thu, 12 Feb 2026 23:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/en/posts/experiment-llm-salah-memahami-waktu/</guid>
+      <description>Experiment with LLM misunderstanding time and solutions applied.</description>
+    </item>
     <item>
       <title>Traveed</title>
       <link>http://localhost:1313/en/posts/traveed/</link>
