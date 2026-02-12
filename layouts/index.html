@@ -14,54 +14,11 @@
 {{- end }}
 
 
-<!-- CUSTOM INDEX TEMPLATE IS BEING USED -->
-{{- /* Custom Projects Section - Only show on home page first page */ -}}
-{{- if eq $paginator.PageNumber 1 }}
+<!-- CUSTOM INDEX TEMPLATE - Interleaved Projects + Articles -->
 {{- $allProjects := where site.RegularPages "Params.tags" "intersect" (slice "Projects") }}
-<!-- Found {{ len $allProjects }} project posts -->
-{{- if gt (len $allProjects) 0 }}
-<section class="projects-section">
-    <header class="projects-header">
-        <!-- DEBUG: Lang={{ .Lang }} Language.Lang={{ site.Language.Lang }} -->
-        <h2>{{ i18n "latest_projects" }}</h2>
-    </header>
-    <div class="projects-container">
-        {{- range first 3 $allProjects }}
-        <article class="project-card">
-            {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
-            {{- if not $isHidden }}
-            {{- with .Params.cover.image }}
-            <div class="project-cover">
-                <img src="{{ . | absURL }}" alt="{{ $.Params.cover.alt | default $.Title }}" loading="lazy">
-            </div>
-            {{- end }}
-            {{- end }}
-            <div class="project-content">
-                <header class="project-header">
-                    <h3>{{ .Title }}</h3>
-                </header>
-                {{- if (ne (.Param "hideSummary") true) }}
-                <div class="project-summary">
-                    <p>{{ .Summary | plainify | htmlUnescape | truncate 120 }}{{ if .Truncated }}...{{ end }}</p>
-                </div>
-                {{- end }}
-                <footer class="project-footer">
-                    {{- partial "post_meta.html" . -}}
-                </footer>
-            </div>
-            <a class="project-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
-        </article>
-        {{- end }}
-    </div>
-    <div class="projects-see-more">
-        <a href="tags/projects/" class="see-more-btn">{{ i18n "see_more_projects" }}</a>
-    </div>
-</section>
-{{- end }}
-{{- end }}
 
-<header class="projects-header">
-    <h2>Latest Posts</h2>
+<header class="posts-header">
+    <h2>{{ i18n "latest_posts" }}</h2>
 </header>
 
 {{- $term := .Data.Term }}
@@ -75,7 +32,6 @@
 {{- else if $term }}
 {{- $class = "post-entry tag-entry" }}
 {{- end }}
-
 
 <article class="{{ $class }}">
     {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
@@ -105,6 +61,49 @@
     {{- end }}
     <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
 </article>
+
+{{- /* Insert projects carousel after every 2nd article (only on page 1) */ -}}
+{{- if and (eq $paginator.PageNumber 1) (eq $index 1) (gt (len $allProjects) 0) }}
+<section class="projects-section">
+    <header class="projects-header">
+        <h2>{{ i18n "latest_projects" }}</h2>
+    </header>
+    <div class="projects-carousel">
+        <div class="projects-track">
+            {{- range first 3 $allProjects }}
+            <article class="project-card">
+                {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
+                {{- if not $isHidden }}
+                {{- with .Params.cover.image }}
+                <div class="project-cover">
+                    <img src="{{ . | absURL }}" alt="{{ $.Params.cover.alt | default $.Title }}" loading="lazy">
+                </div>
+                {{- end }}
+                {{- end }}
+                <div class="project-content">
+                    <header class="project-header">
+                        <h3>{{ .Title }}</h3>
+                    </header>
+                    {{- if (ne (.Param "hideSummary") true) }}
+                    <div class="project-summary">
+                        <p>{{ .Summary | plainify | htmlUnescape | truncate 120 }}{{ if .Truncated }}...{{ end }}</p>
+                    </div>
+                    {{- end }}
+                    <footer class="project-footer">
+                        {{- partial "post_meta.html" . -}}
+                    </footer>
+                </div>
+                <a class="project-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+            </article>
+            {{- end }}
+        </div>
+    </div>
+    <div class="projects-see-more">
+        <a href="tags/projects/" class="see-more-btn">{{ i18n "see_more_projects" }}</a>
+    </div>
+</section>
+{{- end }}
+
 {{- end }}
 
 {{- if gt $paginator.TotalPages 1 }}
